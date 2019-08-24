@@ -11,6 +11,9 @@ Motion controlled LED earring. Depending on the motion of the earring, a nice gl
 - Adafruit Pro Trinket LiPo Backpack Charger
 - LiPo Battery 50mAh 3.7V
 
+**How to make it**
+- To be described, once I have time and boredom
+
 **Free Culture License**
 This work is licensed under a Creative Commons *Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)*.
 Adaptations and commercial use are allowed AS LONG AS OTHERS SHARE ALIKE. [License terms](https://creativecommons.org/licenses/by-sa/4.0/)
